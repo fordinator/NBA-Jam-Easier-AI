@@ -6,6 +6,10 @@ Load it through RetroArch's `Cheat` menu and make sure `1D565` (at the bottom) i
 
 May do one for other emulators as well because it was actually pretty simple -- just change one value in memory from -0xFF to 0x00.
 
-Contribute to my retro gaming obsession at https://patreon.com/cacophony1979.
+### Licensing and Usage
 
-Join my _Discord_ to discuss this nonsense at https://discord.com/invite/gAugxKBHQY
+Steal it, take credit for it, change it, improve it, sell it, it's yours.
+
+If you want to bullshit with me, visit https://discord.com/invite/gAugxKBHQY.
+
+If you want to encourage other retro gaming projects like this, donate to https://www.patreon.com/cacophony1979
